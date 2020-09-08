@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-you are the ![ejunjsh](https://count.getloli.com/get/@ejunjsh?theme=rule34) people to visit me, thank you very much!!
+![ejunjsh](https://count.getloli.com/get/@ejunjsh?theme=rule34)
 
 <!--
 **ejunjsh/ejunjsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
