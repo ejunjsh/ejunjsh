@@ -5,6 +5,7 @@
 - :eyes: focusing on backend dev,os,algorithm
 - :computer: java,c/c++,go,rust
 - :family_man_woman_girl: father of my daughter, husband of my wife
+- :video_game: psn:sjj050121014
 
 #### Featured  repos
 
