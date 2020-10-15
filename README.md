@@ -1,7 +1,9 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ejunjsh&theme=vue&count_private=true&show_icons=true" />
+
 ### Hi there 👋
 
-[![ejunjsh's github stats](https://github-readme-stats.vercel.app/api?username=ejunjsh&theme=vue&count_private=true&show_icons=true)](https://github.com/ejunjsh)
- [![ejunjsh](https://count.getloli.com/get/@ejunjsh?theme=rule34)](https://github.com/ejunjsh)
+- :orange_book: Focusing on backend development
+- :family_man_woman_girl: father of my daughter, husband of my wife
 
 #### Featured  repos
 
