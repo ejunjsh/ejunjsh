@@ -2,8 +2,12 @@
 
 ### Hi there 👋
 
-- :orange_book: Focusing on backend development
+- :eyes: Focusing on backend development,os,algorithm
 - :family_man_woman_girl: father of my daughter, husband of my wife
+- :computer: java,c/c++,go,rust
+- :star::star::star::star:
+- :star::star::star::star:
+- :star::star::star::star:
 
 #### Featured  repos
 
