@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-- :eyes: Focusing on backend development,os,algorithm
-- :family_man_woman_girl: father of my daughter, husband of my wife
+- :eyes: focusing on backend dev,os,algorithm
 - :computer: java,c/c++,go,rust
+- :family_man_woman_girl: father of my daughter, husband of my wife
 
 #### Featured  repos
 
