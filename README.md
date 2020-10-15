@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- :eyes: focusing on backend dev,os,algorithm
+- :eyes: focusing on backend dev,os,algorithm,db
 - :computer: java,c/c++,go,rust
 - :family_man_woman_girl: father of my daughter, husband of my wife
 - :video_game: psn:sjj050121014
