@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ejunjsh&theme=vue&count_private=true&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ejunjsh&theme=dark&count_private=true&show_icons=true" />
 
 ### Hi there 👋
 
@@ -9,4 +9,4 @@
 
 #### Featured  repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=myos)](https://github.com/ejunjsh/myos) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=mycc)](https://github.com/ejunjsh/mycc) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=mydb)](https://github.com/ejunjsh/mydb) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=kadd)](https://github.com/ejunjsh/kadd)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=myos&theme=dark)](https://github.com/ejunjsh/myos) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=mycc&theme=dark)](https://github.com/ejunjsh/mycc) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=mydb&theme=dark)](https://github.com/ejunjsh/mydb) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=kadd&theme=dark)](https://github.com/ejunjsh/kadd)
