@@ -10,3 +10,7 @@
 #### Featured  repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=myos&theme=dark)](https://github.com/ejunjsh/myos) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=mycc&theme=dark)](https://github.com/ejunjsh/mycc) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=mydb&theme=dark)](https://github.com/ejunjsh/mydb) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=kadd&theme=dark)](https://github.com/ejunjsh/kadd) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=jcc&theme=dark)](https://github.com/ejunjsh/jcc) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=myxv6&theme=dark)](https://github.com/ejunjsh/myxv6)
+
+#### Page visitor counter
+
+![visitor counter](https://profile-counter.glitch.me/ejunjsh/count.svg)
