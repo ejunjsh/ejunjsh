@@ -13,7 +13,7 @@
 
 #### In progress
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=6.824-golabs-2022&theme=dark)](https://github.com/ejunjsh/6.824-golabs-2022)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=6.824-golabs-2022&theme=dark)](https://github.com/ejunjsh/6.824-golabs-2022) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=kaleidoscope&theme=dark)](https://github.com/ejunjsh/kaleidoscope)
 
 
 #### Page visitor counter
