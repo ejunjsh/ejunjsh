@@ -9,12 +9,12 @@
 
 #### Featured  repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=myos&theme=dark)](https://github.com/ejunjsh/myos) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=myxv6&theme=dark)](https://github.com/ejunjsh/myxv6)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=mycc&theme=dark)](https://github.com/ejunjsh/mycc) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=jcc&theme=dark)](https://github.com/ejunjsh/jcc)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=mydb&theme=dark)](https://github.com/ejunjsh/mydb)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=mycpu&theme=dark)](https://github.com/ejunjsh/mycpu)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=kadd&theme=dark)](https://github.com/ejunjsh/kadd) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=myleveldb&theme=dark)](https://github.com/ejunjsh/myleveldb)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=myos&theme=dark)](https://github.com/ejunjsh/myos) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=myxv6&theme=dark)](https://github.com/ejunjsh/myxv6)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=mycc&theme=dark)](https://github.com/ejunjsh/mycc) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=jcc&theme=dark)](https://github.com/ejunjsh/jcc)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=mydb&theme=dark)](https://github.com/ejunjsh/mydb)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=mycpu&theme=dark)](https://github.com/ejunjsh/mycpu)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=kadd&theme=dark)](https://github.com/ejunjsh/kadd) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=myleveldb&theme=dark)](https://github.com/ejunjsh/myleveldb) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=kaleidoscope&theme=dark)](https://github.com/ejunjsh/kaleidoscope)
+
 
 #### In progress
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=6.824-golabs-2022&theme=dark)](https://github.com/ejunjsh/6.824-golabs-2022) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=kaleidoscope&theme=dark)](https://github.com/ejunjsh/kaleidoscope)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ejunjsh&repo=6.824-golabs-2022&theme=dark)](https://github.com/ejunjsh/6.824-golabs-2022) 
 
 #### Page visitor counter
 
