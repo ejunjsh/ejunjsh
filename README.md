@@ -9,7 +9,7 @@
 
 #### My contribution
 
-![](https://raw.githubusercontent.com/ejunjsh/ejunjsh/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/ejunjsh/ejunjsh/master/assets/github-contribution-grid-snake.svg)
 
 #### Featured  repos
 
