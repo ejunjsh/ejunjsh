@@ -7,6 +7,8 @@
 - :family_man_woman_girl: father and husband
 - :video_game: psn:sjj050121014
 
+-------------------------------
+
 #### My contribution
 
 ![](https://raw.githubusercontent.com/ejunjsh/ejunjsh/master/assets/github-contribution-grid-snake.svg)
