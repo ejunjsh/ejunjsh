@@ -9,11 +9,6 @@
 
 -------------------------------
 
-#### 求职
-有需要开发的吗？刚刚失业，有推荐的给我推荐下吧，谢谢啦。 
-
-2023-12-14
-
 #### My contribution
 
 ![](https://raw.githubusercontent.com/ejunjsh/ejunjsh/master/assets/github-contribution-grid-snake.svg)
